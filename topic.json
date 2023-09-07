@@ -1,0 +1,64 @@
+{
+    "topic": "Cooking Biriyani",
+    "description": "Step-by-step instructions on how to cook biriyani",
+    "subtopics": {
+        "Preparing the Rice": {
+            "description": "Instructions on how to prepare the rice for biriyani",
+            "subtopics": [
+                "Wash and rinse the rice",
+                "Soak the rice in water for 30 minutes",
+                "Drain the water from the soaked rice"
+            ]
+        },
+        "Marinating the Meat": {
+            "description": "Instructions on how to marinate the meat for biriyani",
+            "subtopics": [
+                "Clean and wash the meat",
+                "In a bowl, mix together yogurt, spices, and meat",
+                "Cover and refrigerate for at least 1 hour"
+            ]
+        },
+        "Preparing the Biriyani Masala": {
+            "description": "Instructions on how to prepare the biriyani masala",
+            "subtopics": [
+                "In a pan, heat oil and add whole spices",
+                "Add chopped onions and cook until golden brown",
+                "Add ginger-garlic paste and sauté for a minute",
+                "Add chopped tomatoes and cook until softened",
+                "Add spices and mix well",
+                "Cook the masala until oil separates from it"
+            ]
+        },
+        "Cooking the Meat and Rice": {
+            "description": "Instructions on how to cook the meat and rice together",
+            "subtopics": [
+                "In a separate large pan, heat oil and add the marinated meat",
+                "Cook the meat until it is browned and tender",
+                "In a large pot, bring water to a boil",
+                "Add the soaked and drained rice to the boiling water",
+                "Cook the rice until it is 70% cooked",
+                "Drain the partially cooked rice"
+            ]
+        },
+        "Layering and Dum Cooking": {
+            "description": "Instructions on how to layer and cook biriyani in dum style",
+            "subtopics": [
+                "In a large pot, add a layer of partially cooked rice",
+                "Spread a layer of cooked meat masala on top of the rice",
+                "Repeat the layer with rice and meat masala",
+                "Cover the pot with a tight-fitting lid",
+                "Place the pot on a low flame and seal the edges with wheat dough to create a dum",
+                "Cook the biriyani on low flame for 20-25 minutes",
+                "Remove from heat and let it rest for 5-10 minutes",
+                "Gently mix the layers before serving"
+            ]
+        },
+        "Garnishing and Serving": {
+            "description": "Instructions on how to garnish and serve biriyani",
+            "subtopics": [
+                "Garnish with fried onions, mint leaves, and coriander leaves",
+                "Serve hot with raita and salad on the side"
+            ]
+        }
+    }
+}

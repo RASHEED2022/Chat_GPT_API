@@ -1,0 +1,12 @@
+do the below in json format:
+{
+    topic: (only the topic name),
+    description: (short description for the above),
+    subtopics: {
+        (for each subtopic for the main topic do it like the below)
+            topic_name(only the name of the step): {
+                description: (short description for the above subtopics)
+                subtopics: (only the name of the steps in list format with respect to the above subtopic)
+            }
+    }
+}
